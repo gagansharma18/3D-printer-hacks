@@ -20,3 +20,11 @@ and
 G04 P100
 M106 S255
 ```
+# VSCODE
+```
+find
+M106
+and replace with 
+G04 P100
+M106
+```
