@@ -30,3 +30,14 @@ and replace with
 G04 P100
 M106
 ```
+#NEW FIX
+Increase Rapid movement speed
+```
+M106 S0 
+G0 X12.69 Y126.11 F0
+```
+here replace F0 to F3000, it means 50mm/sec or 3000mm/sec
+```
+M106 S0 
+G0 X12.69 Y126.11 F3000
+```
